@@ -1,0 +1,44 @@
+# Power BI files
+*.pbix
+*.pbit
+
+# Large data files
+*.zip
+*.tar.gz
+
+# Temporary files
+*.tmp
+~$*
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Python cache (if using Python for data processing)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+
+# R files (if using R for analysis)
+.Rhistory
+.RData
+.Rproj.user
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
