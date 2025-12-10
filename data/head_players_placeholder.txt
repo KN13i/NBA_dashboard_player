@@ -1,0 +1,11 @@
+Note: Le fichier head_players.png doit être ajouté ici.
+
+Il devrait contenir une image d'en-tête avec les meilleurs joueurs NBA pour le dashboard.
+
+Suggestions d'images :
+- Collage des meilleurs joueurs de la saison
+- Banner avec les stars NBA
+- Image officielle de la NBA
+
+Format recommandé : PNG
+Résolution suggérée : 1920x400 pixels ou similaire pour un en-tête
