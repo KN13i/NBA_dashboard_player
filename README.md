@@ -37,18 +37,19 @@ Dans ce dashboard, on a rendu sur :
 
 ```
 NBA_dashboard_player/
-│
-├── README.md                          
-│
-├── data/                             
-│   ├── stats_par_saison.csv          
-│   ├── head_players.png                   
-│
 ├── dashboard/                        
-│   ├── NBA_Player_Dashboard.pbix     
-│   ├── README.md
-│   ├── Screenshoots                
+│   ├── NBA_dashboard_final.pbix
+|                    
+├── data/
+│   ├── head_players
+|   |  ├── scrape.py                         
+│   ├── stats.csv                                  
 │
+├── docs/                        
+│   ├── Demo 
+│   ├── Guide_Utilisation  
+|
+├── README.md  
         
 ```
 
